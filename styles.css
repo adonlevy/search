@@ -1,0 +1,12 @@
+#homepage {
+    align-content: center;
+    text-align: center;
+    width: 35%;
+    height: 50px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 10;
+    bottom: 20;
+}
