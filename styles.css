@@ -10,3 +10,13 @@ main {
 #logo {
     margin-bottom: 10;
 }
+
+.img-fluid {
+    margin-bottom: 10px;
+}
+
+.input-group,
+.input-group-text {
+    height: 25px;
+    margin-bottom: 30px;
+}
