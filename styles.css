@@ -1,12 +1,12 @@
-#homepage {
+main {
     align-content: center;
     text-align: center;
-    width: 35%;
-    height: 50px;
-    position: absolute;
+    width: 40%;
     margin: auto;
-    left: 0;
-    right: 0;
-    top: 10;
-    bottom: 20;
+    max-width: 500px;
+    padding-top: 100px;
+}
+
+#logo {
+    margin-bottom: 10;
 }
