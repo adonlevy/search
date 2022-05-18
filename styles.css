@@ -36,3 +36,9 @@ label {
 .adv-input {
     display: inline;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
